@@ -77,7 +77,7 @@ blue_team_expertise = {
 
 <div align="center">
 
-### 🔵 Sherlocks Completed: **[48/128]** 🕵️
+### 🔵 Sherlocks Completed: **[49/128]** 🕵️
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1691773)
 

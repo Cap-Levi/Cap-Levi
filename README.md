@@ -103,7 +103,7 @@ I exclusively focus on HackTheBox Sherlocks, which are blue team-focused challen
 [+] Detailed writeups for each Sherlock challenge
 [+] Investigation methodologies and tools used
 [+] Key findings and lessons learned
-[+] Link: Coming Soon!
+[+] Link: https://cap-levi.github.io
 ```
 
 ### Completed Sherlocks
